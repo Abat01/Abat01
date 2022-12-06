@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abat01&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
   
-  
+  <img src="walking-code.gif" width="auto">   ![Abat01's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&![walking-code](https://user-images.githubusercontent.com/117486085/206035783-c1d6b76e-acc6-4b7a-80b6-3de42a5a8a7d.gif)=dark&show_icons=true)
