@@ -25,8 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abat01&count_private=true&theme=radical&show_icons=true" alt="Abat01" /p>
-
-  <img src="walking-code.gif" width="auto">   ![Abat01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abat01&theme=dark&show_icons=true)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medineAnna&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/>
