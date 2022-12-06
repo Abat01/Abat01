@@ -21,7 +21,10 @@ Abat01/Abat01 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abat01&show_icons=true&locale=en&layout=compact" alt="Abat01" /></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abat01&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br/> ![walking-code](https://user-images.githubusercontent.com/117486085/206036317-69c675b2-db26-4673-99f8-06a8ac033af2.gif)
+<br/> 
+
+![walking-code](https://user-images.githubusercontent.com/117486085/206036317-69c675b2-db26-4673-99f8-06a8ac033af2.gif)
  <p align="up"> <img src="https://github-readme-stats.vercel.app/api?username=Abat01&count_private=true&theme=radical&show_icons=true" alt="Abat01" /p>
 
