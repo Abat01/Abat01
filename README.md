@@ -13,7 +13,7 @@ I am Abat from Türkmenistan, and I graduated Department of  Food Engineering in
 -  What we are doing now: I am writing code 🚀.
 
 
-<a target="_blank"href="[https://medium.com/@erlevren](https://medium.com/@abatanna8696)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
+<a target="_blank"href="(https://medium.com/@abatanna8696)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
 
 
 <h3 align="left">Languages and Tools:</h3>
