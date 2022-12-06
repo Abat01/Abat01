@@ -12,6 +12,9 @@ I am Abat from Türkmenistan, and I graduated Department of  Food Engineering in
 - ⚡ Fun fact: I love coding 💻, writing blog ✏️ ,playing chess ♟ and catching stars and perseids.
 -  What we are doing now: I am writing code 🚀.
 
+
+https://medium.com/@abatanna8696
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
