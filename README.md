@@ -10,12 +10,7 @@ I am Abat from Türkmenistan, and I graduated Department of  Food Engineering in
 - 💬 Ask me about **Java,Python, HTML, MySQL, Selenium4, TestNG, JUnit, Cucumber**
 - 📫 How to reach me **abat.annamammedova@gmail.com**
 - ⚡ Fun fact: I love coding 💻, writing blog ✏️ ,playing chess ♟ and catching stars and perseids.
--  What we are doing now: I am writing code 🚀.
-
-
-<a target="_blank"href="https://medium.com/@abatanna8696"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
-
-
+-  What we are doing now: I am writing code 🚀
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
@@ -26,11 +21,7 @@ Abat01/Abat01 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abat01&show_icons=true&locale=en&layout=compact" alt="Abat01" /></p>
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abat01&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br/>
-
- ![walking-code](https://user-images.githubusercontent.com/117486085/206036317-69c675b2-db26-4673-99f8-06a8ac033af2.gif)
-
-  <p align="up"> <img src="https://github-readme-stats.vercel.app/api?username=Abat01&count_private=true&theme=radical&show_icons=true" alt="Abat01" /p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abat01&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br/> ![walking-code](https://user-images.githubusercontent.com/117486085/206036317-69c675b2-db26-4673-99f8-06a8ac033af2.gif)
+ <p align="up"> <img src="https://github-readme-stats.vercel.app/api?username=Abat01&count_private=true&theme=radical&show_icons=true" alt="Abat01" /p>
 
