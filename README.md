@@ -9,7 +9,7 @@ I am Abat from Türkmenistan, and I graduated Department of  Food Engineering in
 - 🌱 I’m currently learning **Lambda**
 - 💬 Ask me about **Java,Python, HTML, MySQL, Selenium4, TestNG, JUnit, Cucumber**
 - 📫 How to reach me **abat.annamammedova@gmail.com**
-- ⚡ Fun fact: I love coding 💻, writing blog ✏️ ,playing chess ♟ and catching stars and perseids.
+- ⚡ Fun fact: I love coding 💻, writing blog ✏️  " https://medium.com/@abatanna8696 ",playing chess ♟ and catching stars and perseids.
 -  What we are doing now: I am writing code 🚀
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
