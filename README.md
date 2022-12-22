@@ -26,5 +26,9 @@ You can click the Preview link to take a look at your changes.
 <br/> 
 
 ![walking-code](https://user-images.githubusercontent.com/117486085/206036317-69c675b2-db26-4673-99f8-06a8ac033af2.gif)
+
+
  <p align="up"> <img src="https://github-readme-stats.vercel.app/api?username=Abat01&count_private=true&theme=radical&show_icons=true" alt="Abat01" /p>
+  
+![snakegame](https://user-images.githubusercontent.com/117486085/209233518-d0f390f9-3b79-47ae-bb89-61918d378008.gif)
 
