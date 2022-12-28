@@ -31,5 +31,5 @@ You can click the Preview link to take a look at your changes.
 
  <p align="up"> <img src="https://github-readme-stats.vercel.app/api?username=Abat01&count_private=true&theme=radical&show_icons=true" alt="Abat01" /p>
   
-<img width="869" alt="Screen Shot 2022-12-26 at 23 03 00" src="https://user-images.githubusercontent.com/117486085/209828259-71b43a11-6a3c-40d9-b5a3-76ba50698d82.png">
+
 
