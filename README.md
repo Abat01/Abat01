@@ -19,6 +19,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 Abat01/Abat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![snakegame](https://user-images.githubusercontent.com/117486085/209233518-d0f390f9-3b79-47ae-bb89-61918d378008.gif)
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abat01&show_icons=true&locale=en&layout=compact" alt="Abat01" /></p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abat01&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
