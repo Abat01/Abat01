@@ -6,7 +6,7 @@
 I am Abat from Türkmenistan, and I graduated Department of  Food Engineering in Turkey. But I really enjoy learning languages and frameworks. And riht now I also enjoy Java, SQL,Sellenium, Python... Moreover, would contribute to my knowledge in QA Automation Engineer which was my research area in bachelor’s degree. You can check out my LinkedIn page at: https://www.linkedin.com/in/abat-annamammedova-8b4a65185/
 
 - 👀 I’m interested QA Tester and learning new programming languages. 
-- 🌱 I’m currently learning **Selenium, TestNG**
+- 🌱 I’m currently learning **CUCUMBER**
 - 💬 Ask me about **Java,Python, HTML, MySQL, Selenium4, TestNG, Cucumber**
 - 📫 How to reach me **abat.annamammedova@gmail.com**
 - ⚡ Fun fact: I love coding 💻, writing blog ✏️  " https://medium.com/@abatanna8696 " , playing chess ♟ and catching stars and perseids.
