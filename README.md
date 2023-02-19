@@ -35,5 +35,14 @@ You can click the Preview link to take a look at your changes.
 
  <p align="down"> <img src="https://github-readme-stats.vercel.app/api?username=Abat01&count_private=true&theme=radical&show_icons=true" alt="Abat01" /p>
   
+<br>
 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/abat-annamammedova-8b4a65185/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:aa.annamammedova@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
+  </a>
+</div>
 
