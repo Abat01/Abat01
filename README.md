@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Germany;I'm+Abat;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
-I am Abat from Türkmenistan, and I graduated Department of  Food Engineering in Turkey. But I really enjoy learning languages and frameworks. And riht now I also enjoy Java, SQL,Sellenium, Python... Moreover, would contribute to my knowledge in QA Automation Engineer which was my research area in bachelor’s degree. You can check out my LinkedIn page at: https://www.linkedin.com/in/abat-annamammedova-8b4a65185/
+I am Abat.I come from Türkmenistan, and I graduated Department of  Food Engineering in Turkey. But I really enjoy learning languages and frameworks. And right now I also enjoy Java, SQL,Sellenium,Cucumber, Python... Moreover, would contribute to my knowledge in QA Automation Engineer which was my research area in bachelor’s degree. You can check out my LinkedIn page at: https://www.linkedin.com/in/abat-annamammedova-8b4a65185/
 
 - 👀 I’m interested QA Tester and learning new programming languages. 
 - 🌱 I’m currently learning **CUCUMBER**
