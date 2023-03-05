@@ -9,7 +9,7 @@ I am Abat.I come from Türkmenistan, and I graduated Department of  Food Enginee
 
 - 👀 I’m interested QA Tester and learning new programming languages. 
 - 🌱 I’m currently learning **CUCUMBER**
-- 💬 Ask me about **Java,Python, HTML, MySQL, Selenium4, TestNG, Cucumber**
+- 💬 Ask me about **Core Java,Python(beginner), HTML, MySQL, Selenium4, TestNG, Cucumber**
 - 📫 How to reach me **aa.annamammedova@gmail.com**
 - ⚡ Fun fact: I love coding 💻, writing blog ✏️  " https://medium.com/@abatanna8696 " , playing chess ♟ and catching stars and perseids.
 - seeing your code work, being able to create new things and even being able to help others with innovative solutions🚀
