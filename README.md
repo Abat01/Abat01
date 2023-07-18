@@ -8,7 +8,7 @@
 I am Abat Annamammedova.I come from Türkmenistan, and I graduated Department of  Food Engineering in Turkey. But I really enjoy learning programming languages and frameworks. And right now I also enjoy Java, SQL, Sellenium,Cucumber, API... Moreover, would contribute to my knowledge in QA Automation Engineer which was my research area in bachelor’s degree. Software is the future, let's build it together and forever. You can check out my LinkedIn page at: https://www.linkedin.com/in/abat-annamammedova-8b4a65185/ 
 
 - 👀 I’m interested QA Tester and learning new programming languages. 
-- 🌱 I’m currently learning **JavaScript & Building Systems with the ChatGPT API**
+- 🌱 I’m currently learning **JavaScript, LeetCode fighter :D & Building Systems with the ChatGPT API**
 - 💬 Ask me about **Core Java,Python(beginner), HTML, MySQL, Selenium4, TestNG, Cucumber**
 - 📫 How to reach me **aa.annamammedova@gmail.com**
 - ⚡ Fun fact: I love coding 💻, writing blog ✏️  " https://medium.com/@abatanna8696 " , playing chess ♟ and catching stars and perseids.
