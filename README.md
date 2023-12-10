@@ -3,7 +3,7 @@
 
 [![](https://komarev.com/ghpvc/?username=Abat01&color=orange)](https://github.com/Abat01)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Germany;I'm+Abat;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QE+Automation+Engineer+%7C+in SKAN;I'm+Abat;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
 I am Abat Annamammedova.I come from Türkmenistan, and I graduated Department of  Food Engineering in Turkey. But I really enjoy learning programming languages and frameworks. And right now I also enjoy Java, SQL, Sellenium,Cucumber, API... Moreover, would contribute to my knowledge in QA Automation Engineer which was my research area in bachelor’s degree. Software is the future, let's build it together and forever. You can check out my LinkedIn page at: https://www.linkedin.com/in/abat-annamammedova-8b4a65185/ 
 
